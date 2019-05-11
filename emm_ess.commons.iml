@@ -10,5 +10,14 @@
     <orderEntry type="library" name="com.illposed.osc:javaosc-ui:0.4" level="project" />
     <orderEntry type="library" name="javax.vecmath:vecmath:1.5.2" level="project" />
     <orderEntry type="library" name="org.apache.commons:commons-configuration2:2.3" level="project" />
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/processing/core.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
   </component>
 </module>

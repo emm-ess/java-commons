@@ -1,4 +1,4 @@
-package de.emm_ess.commons;
+package de.emm_ess.commons.config;
 
 import org.apache.commons.configuration2.CompositeConfiguration;
 import org.apache.commons.configuration2.FileBasedConfiguration;

@@ -1,8 +1,8 @@
-package de.emm_ess.commons;
+package de.emm_ess.commons.debug;
 
 import java.util.Collection;
 
-public abstract class Helper {
+public abstract class DebugHelper {
     public static String toDebugString(final float[] arr) {
         StringBuilder sb = new StringBuilder();
         for (float ele : arr) {

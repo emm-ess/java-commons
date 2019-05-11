@@ -1,4 +1,4 @@
-package de.emm_ess.commons;
+package de.emm_ess.commons.communication;
 
 import com.illposed.osc.OSCMessage;
 import com.illposed.osc.OSCPacket;
